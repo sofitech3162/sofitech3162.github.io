@@ -5,7 +5,7 @@
   "dataAds": {
     "adsOnOff": true,
     "isTestMode": false,
-    "isConsentMsgShow": false,
+    "isConsentMsgShow": true,
     "isBackInterstitialShow": false,
     "adsTypeOpenServer": "google",
     "adsTypeBannerServer": "google",
@@ -35,10 +35,10 @@
     "vungleNativeId": "your_vungle_native_id",
     "nativePerItem": "",
     "publisherId": "",
-    "consentMsgApi": "https://codexnews.codexperts.in/appinfo/Khamkar_api/postConsentData",
-    "localApiUrl": "https://camappscctv.github.io/data_con.json",
-    "privacyPolicy": "https://camappscctv.github.io/privacy.html",
-    "localPrivacyPolicy": "https://camappscctv.github.io/privacy.html",
+    "consentMsgApi": "",
+    "localApiUrl": "",
+    "privacyPolicy": "",
+    "localPrivacyPolicy": "",
     "adsButtonColor": "#000000",
     "localBanner": [
       {
