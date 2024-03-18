@@ -36,7 +36,7 @@
     "nativePerItem": "",
     "publisherId": "",
     "consentMsgApi": "",
-    "localApiUrl": "",
+    "localApiUrl": "https://sofitech3162.github.io/data_con.json",
     "privacyPolicy": "",
     "localPrivacyPolicy": "",
     "adsButtonColor": "#000000",
