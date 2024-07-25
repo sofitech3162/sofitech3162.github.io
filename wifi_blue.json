@@ -84,7 +84,7 @@
     ]
   },
   "data": {
-    "appLive": true,
+    "appLive": false,
     "isLiveUrlScreen": true,
     "countryNative": false,
     "nameNative": true,
