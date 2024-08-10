@@ -3,9 +3,9 @@
   "responseCode": 200,
   "message": "",
   "dataAds": {
-    "adsOnOff": false,
+    "adsOnOff": true,
     "isTestMode": false,
-    "isConsentMsgShow": false,
+    "isConsentMsgShow": true,
     "isBackInterstitialShow": false,
     "adsTypeOpenServer": "google",
     "adsTypeBannerServer": "google",
@@ -84,7 +84,7 @@
     ]
   },
   "data": {
-    "appLive": false,
+    "appLive": true,
     "isLiveUrlScreen": true,
     "countryNative": false,
     "nameNative": true,
